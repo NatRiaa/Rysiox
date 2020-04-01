@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="pl">
+	<head>
+	<title>Rysiox</title>
+	<link rel="shortcut icon" type="image/png" href="/znaczniki/icon.jpg" />
+	<meta charset="UTF-8" />
+	<style>
+	body {
+	background-image: url('tlo/d1.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+	.zero {
+	width:90%;
+	height:1500px;
+	background-color:#F1F3D3;
+	margin:auto;
+	
+	background-image: url('tlo/t5.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+	.nazwa {
+	border-radius: 3px;
+	height:10%;
+	width:100%;
+	background-color: white;
+	box-shadow:3px 3px 6px black;
+	margin:auto;
+	margin-top:1%;
+	}
+	.kol1 {
+	border-radius: 10px;
+	height:25%;
+	width:49%;
+	background-color:#DFF6F4;
+	opacity: 0.9;
 
-You can use the [editor on GitHub](https://github.com/NatRiaa/Rysiox/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	margin:auto;
+	margin-top:7%;
+	margin-right:25%;
+	border: 1px solid #555555 ;
+	float:right;
+	}
+	.kon {
+	height:10%;
+	width:100%;
+	background-color:#333333;
+	margin:auto;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	}
+	
+	</style>
+	
+	</head>
+	<body>
+	<div class="zero">
+	<div class="nazwa"><p style="position: relative; left: 10px; float: left; font-size: 190%; color:#E1FFEB "> Rysiox </p>
+	<a href="kontakt.html"><img src="znaczniki/kontakt.png"  width="200" alt="" style="border-radius:10px; float:right; margin-top:5px"></a>
+	<a href="opinie.html"><img src="znaczniki/opinie.png"  width="200" alt="" style="border-radius:10px; float:right; margin-top:5px"></a>
+	<a href="galeria.html"><img src="znaczniki/galeria.png" width="200" alt="" style="border-radius:10px; float:right; margin-top:5px"></a>
+	<a href="oferta.html"><img src="znaczniki/oferta.png" width="200" alt="" style="border-radius:10px; float:right; margin-top:5px"></a>
+	<a href="index.html"><img src="znaczniki/strgl1.png" width="200" alt="" style="border-radius:10px; float:right; margin-top:5px"></a>
+	</div>
+	<img src="logo/t3.png"  alt="Zdjęcie niedostępne" style="border-radius:10px; margin:auto; margin-left:15%; margin-top:1%">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NatRiaa/Rysiox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<hr style="width:98%; color:black;">  
+	
+	<div class="kol1"><p style="position: relative; left: 10px; font-family: Bahnschrift Light; font-size: 30px; text-align: center;">  Usługi tapicerskie Rysiox </p>
+	<br> 
+	<p style="position: relative; left: 10px; float: left; font-family: Bahnschrift Light; font-size: 30px;">Nasza firma solidnie i rzetelnie wykonuje swoje zadanie, pełen profesjonalizm, optymalne i niskie ceny, chcesz odnowić stara kanapę, sofę lub krzesło? Nie ma problemu, skontaktuj się z nami telefonicznie lub przyjdź do nas!. Indywidualne zamówienia pod klienta. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zapraszamy! </p></div>
+	
+	</div>
+	<div class="kon"><p style="position: relative; left: 10px; float: left; font-size: 120%; color:#aaaaaa "> 2020 Patrycja Jażdżewska </p></div>
+	</body>
+</html>
+	
